@@ -1,0 +1,9 @@
+
+1) Basic Statistics: https://www.youtube.com/playlist?list=PLBx2L_ikudBMVPUnAn4Ak8SB-V5GSNosv
+
+2) Tableau (Visualizatio Tool): https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK
+-- Tableau Student Licence: https://www.tableau.com/academic/students#form
+
+3) Data Analytics with Python:   https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv
+
+4) Sql Queries Practice : https://sqlzoo.net/wiki/SELECT_basics
